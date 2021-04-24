@@ -1,7 +1,7 @@
-a = int(print("Escribir numero a: "))
-b = int(print("Escribir numero b: "))
+a = int(input("Escribir numero a: "))
+b = int(input("Escribir numero b: "))
 
 if (a > b):
     print("Hola mundo")
-else
+else:
     print("Adios mundo")
